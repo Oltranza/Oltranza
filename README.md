@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi，我是 Oltranza 👋
 
-<!--
-**Oltranza/Oltranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+数字媒体技术专业在读，从零开始探索中。
+对“把脑海里的想法变成看得见的东西”充满热情——无论是视频、自媒体还是游戏。
 
-Here are some ideas to get you started:
+## Interests 🎯
+- 🎬 视频剪辑 & 自媒体内容创作
+- 🎮 游戏开发（梦想做自己的小游戏）
+- ✨ 数字内容与视觉表达
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning 🌱
+- 剪辑基础（剪映 / Premiere，研究画面节奏与转场）
+- 自媒体运营逻辑与个人频道定位
+- 为游戏开发打基础：准备系统学 C++ / Unity
+- 数字媒体技术相关专业课
+
+## What I Want to Build 🚀
+- 一个属于自己的小游戏（哪怕很简单）
+- 有个人风格的短视频 / 自媒体频道
+- 把“剪辑叙事”和“游戏交互”结合的创意作品
+
+## Preferred Role
+暂定 "Not Sure Yet"，偏内容创作方向（剪辑 / 策划 / 创意），
+未来希望往独立开发者或技术美术(Technical Artist)方向靠拢。
+
+## Strengths 💪
+- 对内容审美有直觉、爱琢磨画面
+- 执行力强、愿意从零学起并动手试错
+- 沟通顺畅，能清晰表达想法
+
+## How to reach me 📫
+邮箱：2930936754@qq.com
+
+## Fun fact ✨
+很喜欢这句话：“魔法是想象的世界。”
+目前虽几乎零基础，但相信持续折腾就会有作品。
